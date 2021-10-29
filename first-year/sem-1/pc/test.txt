@@ -1,0 +1,7 @@
+#inlcude <stdint.h>
+
+int main (void)
+{
+	printf("Nota in test :%d", 10);
+	return 0;
+}
